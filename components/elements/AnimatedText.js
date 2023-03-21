@@ -19,7 +19,7 @@ export default function AnimatedText() {
           Asu
         </span>
       </TextLoop>{" "}
-      Profile
+      banget
     </div>
   );
 }
