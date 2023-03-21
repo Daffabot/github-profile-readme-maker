@@ -49,7 +49,7 @@ export default function HomePage() {
           <div className="w-full flex flex-col md:flex-row py-16 md:py-28 min-h-[90vh] items-center relative">
             <div className="flex flex-col w-full md:w-6/12 relative">
               <p className="text-6xl md:text-7xl 2xl:text-8xl">
-                Best Profile Generator
+                Daffabot Profile Generator
               </p>
               {/* Text Input */}
               <div className="flex flex-col sm:flex-row mt-8 md:my-16 2xl:my-20 items-center">
