@@ -3,34 +3,14 @@ import React from "react";
 export default function Credits() {
   const cc = [
     {
-      avatar: "https://avatars.githubusercontent.com/u/81325730?v=4",
-      name: "Vishwa Gaurav",
-      creditfor: "Visit Count Pro",
+      avatar: "https://avatars.githubusercontent.com/u/96946212?v=4",
+      name: "Daffabot",
+      creditfor: "Yang Bikin Dong",
     },
     {
-      avatar: "https://avatars.githubusercontent.com/u/35374649?v=4",
-      name: "Anurag Hazra",
-      creditfor: "GitHub ReadMe Stats",
-    },
-    {
-      avatar: "https://avatars.githubusercontent.com/u/20955511?v=4",
-      name: "Jonah Lawrence",
-      creditfor: "GitHub ReadMe Streaks",
-    },
-    {
-      avatar: "https://avatars.githubusercontent.com/u/26834658?v=4",
-      name: "Tushar Mittal",
-      creditfor: "Random Memer",
-    },
-    {
-      avatar: "https://avatars.githubusercontent.com/u/6661165?v=4",
-      name: "Ryota Sakamoto",
-      creditfor: "GitHub Profile Trophies",
-    },
-    {
-      avatar: "https://avatars.githubusercontent.com/u/32237558?v=4",
-      name: "Piyush Suthar",
-      creditfor: "GitHub ReadMe Quotes",
+      avatar: "https://avatars.githubusercontent.com/u/97798852?v=4",
+      name: "Handra The Jelek",
+      creditfor: "Orang ini jelek",
     },
   ];
   return (
