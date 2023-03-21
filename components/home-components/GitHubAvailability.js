@@ -19,7 +19,7 @@ export default function GitHubAvailability() {
           Licensed under GPL-3.0 ©VishwaGauravIn
         </p>
         <AnchorWithSVG
-          url="https://github.com/VishwaGauravIn/github-profile-readme-maker"
+          url="https://github.com/Daffabot"
           title="Visit GitHub"
         />
       </div>
